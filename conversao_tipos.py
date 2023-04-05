@@ -6,7 +6,7 @@ idade_int = int(idade)
 
 print(idade_int, type(idade_int))
 
-altura = float(input('Informe sau altura: '))
+altura = float(input('Informe sua altura: '))
 
 print(altura, type(altura))
 
