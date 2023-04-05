@@ -29,7 +29,6 @@ print(num > x*y, num <= x + y, num*y != x*y)
 print(num == x*y, num*y == x*y, y > x + num) #resposta
 
 #Q4
-#Q4
 x = 4.2
 
 y = 10
