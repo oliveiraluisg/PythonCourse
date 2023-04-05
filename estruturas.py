@@ -22,5 +22,5 @@ if media >=6 and faltas <=25:
 elif media >=4 and faltas <=25:
     print('Exame')
 else:
-    print('DP')
+    print('DP') 
  
